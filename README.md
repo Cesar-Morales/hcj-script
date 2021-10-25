@@ -19,8 +19,9 @@ Solo funciona en linux
 ### Eliminarlo:
 Por ahora se elimina haciendo
     
-    unalias hcj
     rm ~/.bash_aliases
+    unalias hcj
+   
 
 Y eliminando
     
